@@ -1,1 +1,5 @@
-this is file t
+<<<<<<< HEAD
+i have named this as file t
+=======
+this file name is t
+>>>>>>> dev
